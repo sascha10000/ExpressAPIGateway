@@ -1,0 +1,32 @@
+[{
+	"host": "localhost",
+    "port": "3000",
+	"redirects":[{
+		"path": "/animals",
+		"method": "get"
+	},
+    {
+		"path": "/animal/:id",
+		"method": "get"
+	},
+    {
+        "path": "/animal",
+        "method": "post"
+    }]
+},
+{
+	"host": "localhost",
+    "port": "4000",
+	"redirects":[{
+		"path": "/user",
+		"method": "get"
+	},
+    {
+		"path": "/user/:id",
+		"method": "get"
+	},
+    {
+        "path": "/user",
+        "method": "post"
+    }]
+}]
