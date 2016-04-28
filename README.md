@@ -2,6 +2,8 @@
 Simple API Gateway with ExpressJS
 It works but is only used as an example. You may need to fit it your needs!
 
+A detailed code description can be found at: http://www.sascha.tech/2016/02/05/building-a-simple-api-gateway-with-expressjs/
+
 ####Install NodeJS
 https://nodejs.org/en/
 
